@@ -1,0 +1,31 @@
+{
+  "name": "@dnyaneshwargiri/node-js-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnyaneshwargiri/nodejs-crash-course.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "dnyaneshwar giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnyaneshwargiri/nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/dnyaneshwargiri/nodejs-crash-course#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
